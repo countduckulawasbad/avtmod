@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <!-- the prompts here are personal choices -->
+    <!-- feel free to adapt them to the AI model you're using -->
+
+    <Avatar.AIGenPromptDef>
+        <defName>Wrinkles</defName>
+        <prompt>(wrinkles)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Bald</defName>
+        <prompt>bald</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Shaved</defName>
+        <prompt>shaved head</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>SideWhiskers</defName>
+        <prompt>sideburns</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Moustache</defName>
+        <prompt>moustache</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <!-- apparels -->
+    <Avatar.AIGenPromptDef>
+        <defName>Apparel_PlateArmor</defName>
+        <prompt>plate armor</prompt>
+        <overrides>T-shirt, button-down shirt</overrides>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Apparel_FlakJacket</defName>
+        <prompt>flak jacket</prompt>
+        <overrides>T-shirt, button-down shirt</overrides>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Apparel_ArmorHelmetRecon</defName>
+        <prompt>high-tech helmet, (cheek pads)</prompt>
+        <overrides>bald, shaved head</overrides>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Apparel_ArmorRecon</defName>
+        <prompt>high-tech armor</prompt>
+        <overrides>T-shirt, button-down shirt</overrides>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Apparel_PowerArmorHelmet</defName>
+        <prompt>high-tech helmet</prompt>
+        <overrides>bald, shaved head</overrides>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Apparel_PowerArmor</defName>
+        <prompt>high-tech armor</prompt>
+        <overrides>T-shirt, button-down shirt</overrides>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Apparel_ArmorHelmetCataphract</defName>
+        <prompt>high-tech closed helmet</prompt>
+        <overrides>bald, shaved head</overrides>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Apparel_ArmorCataphract</defName>
+        <prompt>high-tech heavy armor</prompt>
+        <overrides>T-shirt, button-down shirt</overrides>
+    </Avatar.AIGenPromptDef>
+
+    <!-- genes -->
+    <Avatar.AIGenPromptDef>
+        <defName>Headbone_MiniHorns</defName>
+        <prompt>(headhorns)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Jaw_Heavy</defName>
+        <prompt>(large cheeks), (heavy jaw), (neanderthal: 1.3)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Brow_Heavy</defName>
+        <prompt>(big forehead)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Nose_Pig</defName>
+        <prompt>(pig nose)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Ears_Pig</defName>
+        <prompt>(pig ears)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Head_Gaunt</defName>
+        <prompt>(gaunt skull like), (mutated)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Beauty_Pretty</defName>
+        <prompt>pretty</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Beauty_Beautiful</defName>
+        <prompt>(beautiful)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Beauty_Ugly</defName>
+        <prompt>ugly</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Beauty_VeryUgly</defName>
+        <prompt>(ugly)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <!-- increased weights for hair/eyes/skin color -->
+    <Avatar.AIGenPromptDef>
+        <defName>Hair_SnowWhite</defName>
+        <prompt>(white hair: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Eyes_Red</defName>
+        <prompt>(red eyes: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Eyes_Gray</defName>
+        <prompt>(white eyes: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_InkBlack</defName>
+        <prompt>(black skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_SlateGray</defName>
+        <prompt>(gray skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_LightGray</defName>
+        <prompt>(white skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_SheerWhite</defName>
+        <prompt>(white skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_Blue</defName>
+        <prompt>(blue skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_Purple</defName>
+        <prompt>(purple skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_PaleRed</defName>
+        <prompt>(red skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_DeepRed</defName>
+        <prompt>(red skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_PaleYellow</defName>
+        <prompt>(yellow skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_DeepYellow</defName>
+        <prompt>(yellow skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_Orange</defName>
+        <prompt>(orange skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Skin_Green</defName>
+        <prompt>(green skin: 1.5)</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <!-- xenotypes — curated visual descriptions for the {race} tag -->
+    <!-- mod authors can add entries matching their XenotypeDef.defName -->
+    <!-- Xenotype face descriptors. These are SUBSTITUTED into the {race}
+         token of the prompt preamble at runtime by XenotypeDescriptionGenerator.
+         For SDXL to actually deviate from a human face on non-human xenotypes
+         (Yttakin, Pigskin, Impid), the prompt needs explicit "anthropomorphic"
+         language and weighted critical features — SDXL is heavily biased
+         toward human faces and will draw one unless strongly pulled away.
+
+         Token weighting syntax: (text:1.3) tells SDXL to emphasize that text
+         30% more than default. Use sparingly on the most distinctive features.
+         The vanilla pretrained SDXL doesn't know what "Yttakin" or "Impid"
+         means — it understands DESCRIPTION tokens, not RimWorld lore names.
+         So describe the features, not the species name. -->
+
+    <Avatar.AIGenPromptDef>
+        <defName>Dirtmole</defName>
+        <prompt>pale gray-tinted skin, broad compact face, squinting sensitive eyes, low-light adapted</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Genie</defName>
+        <prompt>(completely bald:1.3), gaunt thin face, pale fragile skin, elongated delicate features</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Hussar</defName>
+        <prompt>muscular soldier, (blood red eyes:1.3), stern military expression, intimidating stare</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Sanguophage</defName>
+        <prompt>pale vampiric face, (sharp visible fangs:1.2), red glowing eyes, beautiful but sinister</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Neanderthal</defName>
+        <prompt>(heavy pronounced brow ridge:1.3), broad thick neck, primitive robust features, low sloped forehead</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Pigskin</defName>
+        <prompt>(anthropomorphic pig-person:1.3), (large pink pig snout:1.3), (large pink pig ears:1.2), pink mottled skin, jowly cheeks</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Impid</defName>
+        <prompt>(reddish orange skin:1.3), (two prominent black horns on forehead:1.3), sharp angular face, glowing eyes, fanged smile</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Waster</defName>
+        <prompt>gaunt sickly face, grey sallow pollution-damaged skin, hollow cheeks, weary haggard expression</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Yttakin</defName>
+        <prompt>(anthropomorphic wolf-person:1.3), (entire face covered in thick brown fur:1.4), (animal snout:1.2), pointed animal ears, broad imposing head and shoulders, fierce expression</prompt>
+    </Avatar.AIGenPromptDef>
+
+    <Avatar.AIGenPromptDef>
+        <defName>Highmate</defName>
+        <prompt>(strikingly beautiful elven features:1.2), flawless pale skin, delicate expressive face, soft white hair, otherworldly</prompt>
+    </Avatar.AIGenPromptDef>
+
+</Defs>

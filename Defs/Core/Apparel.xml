@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Avatar_GenericArmor</defName>
+        <unisexPath>Core/Apparel/GenericArmor</unisexPath>
+        <unisexChildPath>Core/Apparel/GenericArmorChild</unisexChildPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Avatar_Generic</defName>
+        <unisexPath>Core/Apparel/Generic</unisexPath>
+        <unisexChildPath>Core/Apparel/GenericChild</unisexChildPath>
+        <unisexNewbornPath>Core/Apparel/GenericNewborn</unisexNewbornPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarFacegearDef>
+        <defName>Apparel_ClothMask</defName>
+        <unisexPath>Core/Apparel/Headgear/ClothMask</unisexPath>
+    </Avatar.AvatarFacegearDef>
+
+    <Avatar.AvatarFacegearDef>
+        <defName>Apparel_Blindfold</defName>
+        <unisexPath>Core/Apparel/Headgear/Blindfold</unisexPath>
+    </Avatar.AvatarFacegearDef>
+
+    <Avatar.AvatarFacegearDef>
+        <defName>Apparel_GasMask</defName>
+        <unisexPath>Core/Apparel/Headgear/GasMask</unisexPath>
+    </Avatar.AvatarFacegearDef>
+
+    <Avatar.AvatarFacegearDef>
+        <defName>Apparel_WarVeil</defName>
+        <unisexPath>Core/Apparel/Headgear/WarVeil</unisexPath>
+    </Avatar.AvatarFacegearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Burka</defName>
+        <hideHair>true</hideHair>
+        <hideBeard>true</hideBeard>
+        <unisexPath>Core/Apparel/Headgear/Burka</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Broadwrap</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/Broadwrap</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Headwrap</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/Headwrap</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_TortureCrown</defName>
+        <unisexPath>Core/Apparel/Headgear/TortureCrown</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_CrownStellic</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/CrownStellic</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Crown</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/Crown</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Coronet</defName>
+        <unisexPath>Core/Apparel/Headgear/Coronet</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_AuthorityCap</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/AuthorityCap</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Beret</defName>
+        <hideTop>14</hideTop>
+        <unisexPath>Core/Apparel/Headgear/Beret</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_BowlerHat</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/BowlerHat</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_CowboyHat</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/CowboyHat</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Shadecone</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/Shadecone</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_PsyfocusHelmet</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/PsyfocusHelmet</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_EltexSkullcap</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/EltexSkullcap</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Slicecap</defName>
+        <hideTop>12</hideTop>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/Slicecap</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_PsychicFoilHelmet</defName>
+        <hideTop>12</hideTop>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/PsychicFoilHelmet</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_HatTop</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/HatTop</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_HatLadies</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/HatLadies</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_HatHood</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/HatHood</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Tuque</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/Tuque</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Flophat</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/Flophat</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Tailcap</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/Tailcap</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_TribalHeaddress</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/TribalHeaddress</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_WarMask</defName>
+        <unisexPath>Core/Apparel/Headgear/WarMask</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_VisageMask</defName>
+        <unisexPath>Core/Apparel/Headgear/VisageMask</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_AirwireHeadset</defName>
+        <unisexPath>Core/Apparel/Headgear/AirwireHeadset</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_Gunlink</defName>
+        <unisexPath>Core/Apparel/Headgear/Gunlink</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_IntegratorHeadset</defName>
+        <unisexPath>Core/Apparel/Headgear/IntegratorHeadset</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_ArrayHeadset</defName>
+        <unisexPath>Core/Apparel/Headgear/ArrayHeadset</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_SimpleHelmet</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/SimpleHelmet</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_KidHelmet</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/SimpleHelmet</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_AdvancedHelmet</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/AdvancedHelmet</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_PowerArmorHelmet</defName>
+        <hideHair>true</hideHair>
+        <hideBeard>true</hideBeard>
+        <unisexPath>Core/Apparel/Headgear/PowerArmorHelmet</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_ArmorMarineHelmetPrestige</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/ArmorMarineHelmetPrestige</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>PrestigeMarineHelmet_Samurai</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/ArmorMarineHelmetPrestigeSamurai</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_ArmorHelmetRecon</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetRecon</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_ArmorHelmetReconPrestige</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetReconPrestige</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_ArmorHelmetCataphract</defName>
+        <hideHair>true</hideHair>
+        <hideBeard>true</hideBeard>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetCataphract</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_ArmorHelmetCataphractPrestige</defName>
+        <hideHair>true</hideHair>
+        <hideBeard>true</hideBeard>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetCataphractPrestige</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_ArmorHelmetMechCommander</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetMechCommander</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_ArmorHelmetMechlordHelmet</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetMechlordHelmet</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_TribalA</defName>
+        <unisexPath>Core/Apparel/TribalA</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_Sash</defName>
+        <unisexPath>Core/Apparel/Sash</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_Bandolier</defName>
+        <unisexPath>Core/Apparel/Bandolier</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_BodyStrap</defName>
+        <unisexPath>Core/Apparel/BodyStrap</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_Collar</defName>
+        <unisexPath>Core/Apparel/Collar</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_KidTribal</defName>
+        <unisexPath>Core/Apparel/TribalA</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_BasicShirt</defName>
+        <unisexPath>Core/Apparel/BasicShirt</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_CollarShirt</defName>
+        <unisexPath>Core/Apparel/CollarShirt</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_ShirtRuffle</defName>
+        <unisexPath>Core/Apparel/ShirtRuffle</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_Corset</defName>
+        <unisexPath>Core/Apparel/Corset</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_PsyfocusRobe</defName>
+        <unisexPath>Core/Apparel/PsyfocusRobe</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_PsyfocusShirt</defName>
+        <unisexPath>Core/Apparel/PsyfocusShirt</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_PsyfocusVest</defName>
+        <unisexPath>Core/Apparel/PsyfocusVest</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_VestRoyal</defName>
+        <unisexPath>Core/Apparel/VestRoyal</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_KidShirt</defName>
+        <unisexPath>Core/Apparel/KidShirt</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_KidRomper</defName>
+        <unisexPath>Core/Apparel/KidRomper</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_Cape</defName>
+        <unisexPath>Core/Apparel/Cape</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_RobeRoyal</defName>
+        <unisexPath>Core/Apparel/RobeRoyal</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_Robe</defName>
+        <unisexPath>Core/Apparel/Robe</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_Jacket</defName>
+        <unisexPath>Core/Apparel/Jacket</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_Duster</defName>
+        <unisexPath>Core/Apparel/Duster</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_Parka</defName>
+        <unisexPath>Core/Apparel/Parka</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_KidParka</defName>
+        <unisexPath>Core/Apparel/KidParka</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_PlateArmor</defName>
+        <unisexPath>Core/Apparel/PlateArmor</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_FlakVest</defName>
+        <unisexPath>Core/Apparel/FlakVest</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_FlakJacket</defName>
+        <unisexPath>Core/Apparel/FlakJacket</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_PowerArmor</defName>
+        <unisexPath>Core/Apparel/PowerArmor</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_ArmorMarineGrenadier</defName>
+        <unisexPath>Core/Apparel/ArmorMarineGrenadier</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_ArmorMarinePrestige</defName>
+        <unisexPath>Core/Apparel/ArmorMarinePrestige</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_ArmorRecon</defName>
+        <unisexPath>Core/Apparel/ArmorRecon</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_ArmorReconPrestige</defName>
+        <unisexPath>Core/Apparel/ArmorReconPrestige</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_ArmorLocust</defName>
+        <unisexPath>Core/Apparel/ArmorLocust</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_ArmorCataphract</defName>
+        <unisexPath>Core/Apparel/ArmorCataphract</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_ArmorCataphractPrestige</defName>
+        <unisexPath>Core/Apparel/ArmorCataphractPrestige</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_ArmorCataphractPhoenix</defName>
+        <unisexPath>Core/Apparel/ArmorCataphractPhoenix</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_MechlordSuit</defName>
+        <unisexPath>Core/Apparel/MechlordSuit</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Animalist_WarMask</defName>
+        <unisexPath>Core/Apparel/Headgear/WarMask_Animalist</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Spikecore_SimpleHelmet</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/SimpleHelmet_Spikecore</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Spikecore_AdvancedHelmet</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/AdvancedHelmet_Spikecore</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Rustic_SimpleHelmet</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/SimpleHelmet_Rustic</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Rustic_AdvancedHelmet</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/AdvancedHelmet_Rustic</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Hindu_SimpleHelmet</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/SimpleHelmet_Hindu</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Hindu_AdvancedHelmet</defName>
+        <hideTop>16</hideTop>
+        <unisexPath>Core/Apparel/Headgear/AdvancedHelmet_Hindu</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Animalist_ReconHelmet</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetRecon_Animalist</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Animalist_MarineHelmet</defName>
+        <hideHair>true</hideHair>
+        <hideBeard>true</hideBeard>
+        <unisexPath>Core/Apparel/Headgear/PowerArmorHelmet_Animalist</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Animalist_CataphractHelmet</defName>
+        <hideHair>true</hideHair>
+        <hideBeard>true</hideBeard>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetCataphract_Animalist</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Morbid_ReconHelmet</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetRecon_Morbid</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Morbid_MarineHelmet</defName>
+        <hideHair>true</hideHair>
+        <hideBeard>true</hideBeard>
+        <unisexPath>Core/Apparel/Headgear/PowerArmorHelmet_Morbid</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Morbid_CataphractHelmet</defName>
+        <hideHair>true</hideHair>
+        <hideBeard>true</hideBeard>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetCataphract_Morbid</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Totemic_ReconHelmet</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetRecon_Totemic</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Totemic_MarineHelmet</defName>
+        <hideHair>true</hideHair>
+        <hideBeard>true</hideBeard>
+        <unisexPath>Core/Apparel/Headgear/PowerArmorHelmet_Totemic</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Totemic_CataphractHelmet</defName>
+        <hideHair>true</hideHair>
+        <hideBeard>true</hideBeard>
+        <unisexPath>Core/Apparel/Headgear/ArmorHelmetCataphract_Totemic</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Spikecore_Jacket</defName>
+        <unisexPath>Core/Apparel/Jacket_Spikecore</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Spikecore_Duster</defName>
+        <unisexPath>Core/Apparel/Duster_Spikecore</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Spikecore_Parka</defName>
+        <unisexPath>Core/Apparel/Parka_Spikecore</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Spikecore_FlakJacket</defName>
+        <unisexPath>Core/Apparel/FlakJacket_Spikecore</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <!-- anomaly -->
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_LabCoat</defName>
+        <unisexPath>Core/Apparel/LabCoat</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>CultistMask_TwistedMask</defName>
+        <unisexPath>Core/Apparel/Headgear/CultistMaskTwisted</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>CultistMask_Dreadmask</defName>
+        <unisexPath>Core/Apparel/Headgear/CultistMaskDread</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>CultistMask_SpikedApex</defName>
+        <unisexPath>Core/Apparel/Headgear/CultistMaskSpikedApex</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>CultistMask_Spikemask</defName>
+        <unisexPath>Core/Apparel/Headgear/CultistMaskSpike</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>CeremonialCultistMask_WhispererMask</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/CeremonialCultistMaskWhisperer</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>CeremonialCultistMask_CeremonialDreadcap</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/CeremonialCultistMaskDread</unisexPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarHeadgearDef>
+        <defName>Apparel_VacsuitHelmet</defName>
+        <hideHair>true</hideHair>
+        <unisexPath>Core/Apparel/Headgear/VacsuitHelmet</unisexPath>
+        <unisexChildPath>Core/Apparel/Headgear/VacsuitHelmetChild</unisexChildPath>
+    </Avatar.AvatarHeadgearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_Vacsuit</defName>
+        <unisexPath>Core/Apparel/Vacsuit</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+    <Avatar.AvatarBodygearDef>
+        <defName>Apparel_VacsuitChildren</defName>
+        <unisexPath>Core/Apparel/VacsuitChildren</unisexPath>
+    </Avatar.AvatarBodygearDef>
+
+</Defs>

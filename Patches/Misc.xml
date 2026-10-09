@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <!-- Cheek color is not nose! -->
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Papou Race : emotional birds</li>
+        </mods>
+        <match Class="PatchOperationRemove">
+            <xpath>Defs/GeneDef[@Name="papagoCheekBase"]/endogeneCategory</xpath>
+        </match>
+    </Operation>
+
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Det's Xenotypes - Avaloi</li>
+        </mods>
+        <match Class="PatchOperationAdd">
+            <xpath>Defs/GeneDef[defName="DV_Coral_Beards"]</xpath>
+              <value>
+                  <endogeneCategory Inherit="False">Jaw</endogeneCategory>
+              </value>
+        </match>
+    </Operation>
+
+</Patch>

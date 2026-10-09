@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <Avatar.AvatarHeadHediffDef>
+        <defName>Eyes_Bionic</defName>
+        <typeName>BionicEye</typeName>
+        <unisexPath>Core/Unisex/Eyes/BionicEye</unisexPath>
+    </Avatar.AvatarHeadHediffDef>
+
+    <Avatar.AvatarHeadHediffDef>
+        <defName>Eyes_Archotech</defName>
+        <typeName>ArchotechEye</typeName>
+        <unisexPath>Core/Unisex/Eyes/ArchotechEye</unisexPath>
+    </Avatar.AvatarHeadHediffDef>
+
+    <Avatar.AvatarHeadHediffDef>
+        <defName>Ears_CochlearImplant</defName>
+        <typeName>CochlearImplant</typeName>
+        <unisexPath>Core/Unisex/Ears/CochlearImplant</unisexPath>
+    </Avatar.AvatarHeadHediffDef>
+
+    <Avatar.AvatarHeadHediffDef>
+        <defName>Jaw_Denture</defName>
+        <typeName>Denture</typeName>
+        <unisexPath>Core/Unisex/Jaw/Denture</unisexPath>
+        <unisexChildPath>Core/Unisex/Jaw/DentureChild</unisexChildPath>
+        <unisexNewbornPath>Core/Unisex/Jaw/DentureNewborn</unisexNewbornPath>
+    </Avatar.AvatarHeadHediffDef>
+
+    <Avatar.AvatarHeadHediffDef>
+        <defName>Jaw_Bionic</defName>
+        <typeName>BionicJaw</typeName>
+        <unisexPath>Core/Unisex/Jaw/BionicJaw</unisexPath>
+        <unisexChildPath>Core/Unisex/Jaw/BionicJawChild</unisexChildPath>
+        <unisexNewbornPath>Core/Unisex/Jaw/BionicJawNewborn</unisexNewbornPath>
+    </Avatar.AvatarHeadHediffDef>
+
+    <Avatar.AvatarEarsDef>
+        <defName>Ears_Cat</defName>
+        <geneName>Ears_Cat</geneName>
+        <unisexPath>Core/Unisex/Ears/Ears_Cat</unisexPath>
+    </Avatar.AvatarEarsDef>
+
+    <Avatar.AvatarEarsDef>
+        <defName>Ears_Floppy</defName>
+        <geneName>Ears_Floppy</geneName>
+        <unisexPath>Core/Unisex/Ears/Ears_Floppy</unisexPath>
+        <unisexChildPath>Core/Unisex/Ears/Ears_Floppy_Child</unisexChildPath>
+        <unisexNewbornPath>Core/Unisex/Ears/Ears_Floppy_Child</unisexNewbornPath>
+    </Avatar.AvatarEarsDef>
+
+    <Avatar.AvatarEarsDef>
+        <defName>Ears_Pig</defName>
+        <geneName>Ears_Pig</geneName>
+        <unisexPath>Core/Unisex/Ears/Ears_Pig</unisexPath>
+    </Avatar.AvatarEarsDef>
+
+    <Avatar.AvatarEarsDef>
+        <defName>Ears_Pointed</defName>
+        <geneName>Ears_Pointed</geneName>
+        <unisexPath>Core/Unisex/Ears/Ears_Pointed</unisexPath>
+    </Avatar.AvatarEarsDef>
+
+    <Avatar.AvatarNoseDef>
+        <defName>Nose_Pig</defName>
+        <geneName>Nose_Pig</geneName>
+        <femalePath>Core/Female/Nose/Nose_Pig</femalePath>
+        <malePath>Core/Male/Nose/Nose_Pig</malePath>
+        <femaleChildPath>Core/FemaleChild/Nose/Nose_Pig</femaleChildPath>
+        <maleChildPath>Core/MaleChild/Nose/Nose_Pig</maleChildPath>
+        <femaleNewbornPath>Core/FemaleNewborn/Nose/Nose_Pig</femaleNewbornPath>
+        <maleNewbornPath>Core/MaleNewborn/Nose/Nose_Pig</maleNewbornPath>
+    </Avatar.AvatarNoseDef>
+
+    <Avatar.AvatarEyesDef>
+        <defName>Eyes_Red</defName>
+        <geneName>Eyes_Red</geneName>
+        <color1>(1.0,0.1,0.1)</color1>
+        <color2>(0.7,0.0,0.0)</color2>
+    </Avatar.AvatarEyesDef>
+
+    <Avatar.AvatarEyesDef>
+        <defName>Eyes_Gray</defName>
+        <geneName>Eyes_Gray</geneName>
+        <color1>(0.4,0.4,0.4)</color1>
+        <color2>(0.6,0.6,0.6)</color2>
+    </Avatar.AvatarEyesDef>
+
+    <Avatar.AvatarFacialDef>
+        <defName>Brow_Heavy</defName>
+        <geneName>Brow_Heavy</geneName>
+        <unisexPath>Core/Unisex/Facial/Brow_Heavy</unisexPath>
+        <unisexChildPath>Core/Unisex/Facial/Brow_Heavy_Child</unisexChildPath>
+        <unisexNewbornPath>Core/Unisex/Facial/Brow_Heavy_Newborn</unisexNewbornPath>
+    </Avatar.AvatarFacialDef>
+
+    <Avatar.AvatarFacialDef>
+        <defName>FacialRidges</defName>
+        <geneName>FacialRidges</geneName>
+        <unisexPath>Core/Unisex/Facial/FacialRidges</unisexPath>
+        <unisexChildPath>Core/Unisex/Facial/FacialRidges_Child</unisexChildPath>
+        <unisexNewbornPath>Core/Unisex/Facial/FacialRidges_Newborn</unisexNewbornPath>
+    </Avatar.AvatarFacialDef>
+
+    <Avatar.AvatarHeadboneDef>
+        <defName>MiniHorns</defName>
+        <geneName>Headbone_MiniHorns</geneName>
+        <unisexPath>Core/Unisex/Horn/Headbone_MiniHorns</unisexPath>
+        <unisexChildPath>Core/Unisex/Horn/Headbone_MiniHorns_Child</unisexChildPath>
+        <unisexNewbornPath>Core/Unisex/Horn/Headbone_MiniHorns_Newborn</unisexNewbornPath>
+    </Avatar.AvatarHeadboneDef>
+
+    <Avatar.AvatarHeadboneDef>
+        <defName>CenterHorn</defName>
+        <geneName>Headbone_CenterHorn</geneName>
+        <unisexPath>Core/Unisex/Horn/Headbone_CenterHorn</unisexPath>
+        <unisexChildPath>Core/Unisex/Horn/Headbone_CenterHorn_Child</unisexChildPath>
+        <unisexNewbornPath>Core/Unisex/Horn/Headbone_CenterHorn_Newborn</unisexNewbornPath>
+    </Avatar.AvatarHeadboneDef>
+
+    <Avatar.AvatarBodyHediffDef>
+        <defName>GhoulPlating</defName>
+        <typeName>GhoulPlating</typeName>
+        <unisexPath>Core/Unisex/Ghoul/GhoulPlating</unisexPath>
+    </Avatar.AvatarBodyHediffDef>
+
+    <Avatar.AvatarBodyHediffDef>
+        <defName>GhoulBarbs</defName>
+        <typeName>GhoulBarbs</typeName>
+        <unisexPath>Core/Unisex/Ghoul/GhoulBarbs</unisexPath>
+    </Avatar.AvatarBodyHediffDef>
+
+    <Avatar.AvatarBodyHediffDef>
+        <defName>Tentacle</defName>
+        <typeName>Tentacle</typeName>
+        <unisexPath>Core/Unisex/Arms/Tentacle</unisexPath>
+        <unisexChildPath>Core/Unisex/Arms/TentacleChild</unisexChildPath>
+        <unisexNewbornPath>Core/Unisex/Arms/TentacleNewborn</unisexNewbornPath>
+    </Avatar.AvatarBodyHediffDef>
+
+    <Avatar.AvatarBodyHediffDef>
+        <defName>FleshWhip</defName>
+        <typeName>FleshWhip</typeName>
+        <unisexPath>Core/Unisex/Arms/Tentacle</unisexPath>
+        <unisexChildPath>Core/Unisex/Arms/TentacleChild</unisexChildPath>
+        <unisexNewbornPath>Core/Unisex/Arms/TentacleNewborn</unisexNewbornPath>
+    </Avatar.AvatarBodyHediffDef>
+
+</Defs>
+

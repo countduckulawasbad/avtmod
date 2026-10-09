@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Afro</defName>
+        <typeName>Afro</typeName>
+        <unisexPath>Core/Unisex/Hair/Afro</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Anne</defName>
+        <typeName>Anne</typeName>
+        <unisexPath>Core/Unisex/Hair/Anne</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Artist</defName>
+        <typeName>Artist</typeName>
+        <unisexPath>Core/Unisex/Hair/Artist</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Bald</defName>
+        <typeName>Bald</typeName>
+        <unisexPath>Core/Unisex/Hair/Bald</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Bob</defName>
+        <typeName>Bob</typeName>
+        <unisexPath>Core/Unisex/Hair/Bob</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Bowlcut</defName>
+        <typeName>Bowlcut</typeName>
+        <unisexPath>Core/Unisex/Hair/Bowlcut</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_BraidedKnot</defName>
+        <typeName>BraidedKnot</typeName>
+        <unisexPath>Core/Unisex/Hair/BraidedKnot</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Bravo</defName>
+        <typeName>Bravo</typeName>
+        <unisexPath>Core/Unisex/Hair/Bravo</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_BriefPonytail</defName>
+        <typeName>BriefPonytail</typeName>
+        <unisexPath>Core/Unisex/Hair/BriefPonytail</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Burgundy</defName>
+        <typeName>Burgundy</typeName>
+        <unisexPath>Core/Unisex/Hair/Burgundy</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Cleopatra</defName>
+        <typeName>Cleopatra</typeName>
+        <unisexPath>Core/Unisex/Hair/Cleopatra</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Curly</defName>
+        <typeName>Curly</typeName>
+        <unisexPath>Core/Unisex/Hair/Curly</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Cute</defName>
+        <typeName>Cute</typeName>
+        <unisexPath>Core/Unisex/Hair/Cute</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Decent</defName>
+        <typeName>Decent</typeName>
+        <unisexPath>Core/Unisex/Hair/Decent</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Elder</defName>
+        <typeName>Elder</typeName>
+        <unisexPath>Core/Unisex/Hair/Elder</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Elisabeth</defName>
+        <typeName>Elisabeth</typeName>
+        <unisexPath>Core/Unisex/Hair/Elisabeth</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_FancyBun</defName>
+        <typeName>FancyBun</typeName>
+        <unisexPath>Core/Unisex/Hair/FancyBun</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Firestarter</defName>
+        <typeName>Firestarter</typeName>
+        <unisexPath>Core/Unisex/Hair/Firestarter</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Flowy</defName>
+        <typeName>Flowy</typeName>
+        <unisexPath>Core/Unisex/Hair/Flowy</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Fringe</defName>
+        <typeName>Fringe</typeName>
+        <unisexPath>Core/Unisex/Hair/Fringe</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Frozen</defName>
+        <typeName>Frozen</typeName>
+        <unisexPath>Core/Unisex/Hair/Frozen</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_GreasySwoop</defName>
+        <typeName>GreasySwoop</typeName>
+        <unisexPath>Core/Unisex/Hair/GreasySwoop</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Henry</defName>
+        <typeName>Henry</typeName>
+        <unisexPath>Core/Unisex/Hair/Henry</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Jane</defName>
+        <typeName>Jane</typeName>
+        <unisexPath>Core/Unisex/Hair/Jane</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Junkie</defName>
+        <typeName>Junkie</typeName>
+        <unisexPath>Core/Unisex/Hair/Junkie</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Keeper</defName>
+        <typeName>Keeper</typeName>
+        <unisexPath>Core/Unisex/Hair/Keeper</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Lackland</defName>
+        <typeName>Lackland</typeName>
+        <unisexPath>Core/Unisex/Hair/Lackland</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Lisa</defName>
+        <typeName>Lisa</typeName>
+        <unisexPath>Core/Unisex/Hair/Lisa</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Locks</defName>
+        <typeName>Locks</typeName>
+        <unisexPath>Core/Unisex/Hair/Locks</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Long</defName>
+        <typeName>Long</typeName>
+        <unisexPath>Core/Unisex/Hair/Long</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Mary</defName>
+        <typeName>Mary</typeName>
+        <unisexPath>Core/Unisex/Hair/Mary</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Messy</defName>
+        <typeName>Messy</typeName>
+        <unisexPath>Core/Unisex/Hair/Messy</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Mohawk</defName>
+        <typeName>Mohawk</typeName>
+        <unisexPath>Core/Unisex/Hair/Mohawk</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Mop</defName>
+        <typeName>Mop</typeName>
+        <unisexPath>Core/Unisex/Hair/Mop</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Pigtails</defName>
+        <typeName>Pigtails</typeName>
+        <unisexPath>Core/Unisex/Hair/Pigtails</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Ponytails</defName>
+        <typeName>Ponytails</typeName>
+        <unisexPath>Core/Unisex/Hair/Ponytails</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Primal</defName>
+        <typeName>Primal</typeName>
+        <femalePath>Core/Unisex/Hair/Primal_Female</femalePath>
+        <malePath>Core/Unisex/Hair/Primal_Male</malePath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Princess</defName>
+        <typeName>Princess</typeName>
+        <unisexPath>Core/Unisex/Hair/Princess</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Randy</defName>
+        <typeName>Randy</typeName>
+        <unisexPath>Core/Unisex/Hair/Randy</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Recruit</defName>
+        <typeName>Recruit</typeName>
+        <unisexPath>Core/Unisex/Hair/Recruit</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Revolt</defName>
+        <typeName>Revolt</typeName>
+        <unisexPath>Core/Unisex/Hair/Revolt</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Richard</defName>
+        <typeName>Richard</typeName>
+        <unisexPath>Core/Unisex/Hair/Richard</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Rockstar</defName>
+        <typeName>Rockstar</typeName>
+        <unisexPath>Core/Unisex/Hair/Rockstar</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Rookie</defName>
+        <typeName>Rookie</typeName>
+        <femalePath>Core/Unisex/Hair/Rookie_Female</femalePath>
+        <malePath>Core/Unisex/Hair/Rookie_Male</malePath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Savage</defName>
+        <typeName>Savage</typeName>
+        <unisexPath>Core/Unisex/Hair/Savage</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Scatman</defName>
+        <typeName>Scatman</typeName>
+        <unisexPath>Core/Unisex/Hair/Scatman</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_ScorpionTail</defName>
+        <typeName>ScorpionTail</typeName>
+        <unisexPath>Core/Unisex/Hair/ScorpionTail</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Scrapper</defName>
+        <typeName>Scrapper</typeName>
+        <unisexPath>Core/Unisex/Hair/Scrapper</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Senorita</defName>
+        <typeName>Senorita</typeName>
+        <unisexPath>Core/Unisex/Hair/Senorita</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Shaved</defName>
+        <typeName>Shaved</typeName>
+        <femalePath>Core/Unisex/Hair/Shaved_Female</femalePath>
+        <malePath>Core/Unisex/Hair/Shaved_Male</malePath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_ShaveTopBraid</defName>
+        <typeName>ShaveTopBraid</typeName>
+        <unisexPath>Core/Unisex/Hair/ShaveTopBraid</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Snazzy</defName>
+        <typeName>Snazzy</typeName>
+        <unisexPath>Core/Unisex/Hair/Snazzy</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Spikes</defName>
+        <typeName>Spikes</typeName>
+        <unisexPath>Core/Unisex/Hair/Spikes</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Stephen</defName>
+        <typeName>Stephen</typeName>
+        <unisexPath>Core/Unisex/Hair/Stephen</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Sticky</defName>
+        <typeName>Sticky</typeName>
+        <unisexPath>Core/Unisex/Hair/Sticky</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Topdog</defName>
+        <typeName>Topdog</typeName>
+        <unisexPath>Core/Unisex/Hair/Topdog</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Troubadour</defName>
+        <typeName>Troubadour</typeName>
+        <unisexPath>Core/Unisex/Hair/Troubadour</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Tuft</defName>
+        <typeName>Tuft</typeName>
+        <unisexPath>Core/Unisex/Hair/Tuft</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Victoria</defName>
+        <typeName>Victoria</typeName>
+        <unisexPath>Core/Unisex/Hair/Victoria</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Warden</defName>
+        <typeName>Warden</typeName>
+        <unisexPath>Core/Unisex/Hair/Warden</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Wavy</defName>
+        <typeName>Wavy</typeName>
+        <unisexPath>Core/Unisex/Hair/Wavy</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_William</defName>
+        <typeName>William</typeName>
+        <unisexPath>Core/Unisex/Hair/William</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <!-- anomaly -->
+    <Avatar.AvatarHairDef>
+        <defName>Hair_DoubleTuft</defName>
+        <typeName>DoubleTuft</typeName>
+        <femalePath>Core/Unisex/Hair/DoubleTuft_Female</femalePath>
+        <malePath>Core/Unisex/Hair/DoubleTuft_Male</malePath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_LargeTuft</defName>
+        <typeName>LargeTuft</typeName>
+        <unisexPath>Core/Unisex/Hair/LargeTuft</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_LongMess</defName>
+        <typeName>LongMess</typeName>
+        <unisexPath>Core/Unisex/Hair/LongMess</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_LongOily</defName>
+        <typeName>LongOily</typeName>
+        <unisexPath>Core/Unisex/Hair/LongOily</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Parted</defName>
+        <typeName>Parted</typeName>
+        <unisexPath>Core/Unisex/Hair/Parted</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_PatchyShave</defName>
+        <typeName>PatchyShave</typeName>
+        <femalePath>Core/Unisex/Hair/PatchyShave_Female</femalePath>
+        <malePath>Core/Unisex/Hair/PatchyShave_Male</malePath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_RoughShave</defName>
+        <typeName>RoughShave</typeName>
+        <femalePath>Core/Unisex/Hair/RoughShave_Female</femalePath>
+        <malePath>Core/Unisex/Hair/RoughShave_Male</malePath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_ShavedMohawk</defName>
+        <typeName>ShavedMohawk</typeName>
+        <unisexPath>Core/Unisex/Hair/ShavedMohawk</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_ShortCut</defName>
+        <typeName>ShortCut</typeName>
+        <unisexPath>Core/Unisex/Hair/ShortCut</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_SideCut</defName>
+        <typeName>SideCut</typeName>
+        <unisexPath>Core/Unisex/Hair/SideCut</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_SideSpikes</defName>
+        <typeName>SideSpikes</typeName>
+        <unisexPath>Core/Unisex/Hair/SideSpikes</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Ghoul_Furious</defName>
+        <typeName>Ghoul_Furious</typeName>
+        <unisexPath>Core/Unisex/Hair/Ghoul_Furious</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Ghoul_Hungry</defName>
+        <typeName>Ghoul_Hungry</typeName>
+        <unisexPath>Core/Unisex/Hair/Ghoul_Hungry</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Ghoul_Ravenous</defName>
+        <typeName>Ghoul_Ravenous</typeName>
+        <unisexPath>Core/Unisex/Hair/Ghoul_Ravenous</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Ghoul_Twisted</defName>
+        <typeName>Ghoul_Twisted</typeName>
+        <unisexPath>Core/Unisex/Hair/Ghoul_Twisted</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Ghoul_Vengeful</defName>
+        <typeName>Ghoul_Vengeful</typeName>
+        <unisexPath>Core/Unisex/Hair/Ghoul_Vengeful</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Ghoul_Warped</defName>
+        <typeName>Ghoul_Warped</typeName>
+        <unisexPath>Core/Unisex/Hair/Ghoul_Warped</unisexPath>
+    </Avatar.AvatarHairDef>
+
+    <Avatar.AvatarHairDef>
+        <defName>Hair_Ghoul_Wicked</defName>
+        <typeName>Ghoul_Wicked</typeName>
+        <unisexPath>Core/Unisex/Hair/Ghoul_Wicked</unisexPath>
+    </Avatar.AvatarHairDef>
+
+</Defs>
+
